@@ -6,6 +6,7 @@ Neste projeto, criamos uma página de busca de Digimons com o intuito de aplicar
 
 
 **IDE Utilizada:** Visual Studio Code.
+-Também estamos complementando com o Codespace
 
 
 ## Conceitos Praticados no Projeto
